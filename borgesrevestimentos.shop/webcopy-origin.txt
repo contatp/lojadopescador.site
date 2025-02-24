@@ -1,0 +1,812 @@
+Uri: https://assets.zyrosite.com/dOqy0Q6ExPu3Pr0B/ai-logo-dWxyV8aaaquzr5JJ.svg
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\dOqy0Q6ExPu3Pr0B\ai-logo-dWxyV8aaaquzr5JJ.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.zyrosite.com/dOqy0Q6ExPu3Pr0B/traffic.txt
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\dOqy0Q6ExPu3Pr0B\traffic.txt
+Content Type: text/plain
+
+Uri: https://borgesrevestimentos.shop/
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\index-1.htm
+Content Type: text/html
+
+Uri: https://borgesrevestimentos.shop/?fbclid=IwY2xjawIpg9JleHRuA2FlbQIxMAABHXeUseykUqeRGipAk_JH8MrPhkavZKQzqphi_nxdZgtp2pq4FXrvCQ831w_aem_ZCpWYYptEQoesMVGx_EKpg
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\index.htm
+Content Type: text/html
+
+Uri: https://borgesrevestimentos.shop/politica-de-privacidade
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\politica-de-privacidade.html
+Content Type: text/html
+
+Uri: https://borgesrevestimentos.shop/servicos
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\servicos.html
+Content Type: text/html
+
+Uri: https://borgesrevestimentos.shop/_astro-1730689288529/_slug_.Dp0dHr5H.css
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\_astro-1730689288529\_slug_.Dp0dHr5H.css
+Content Type: text/css
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-faces?family=Montserrat:wght@400;500;600&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\font-faces
+Content Type: text/css
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@400&subset=cyrillic&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw9aXp-p7K4KLjztg.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@400&subset=cyrillic-ext&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw0aXp-p7K4KLjztg.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@400&subset=latin&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXp-p7K4KLg.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@400&subset=latin-ext&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXp-p7K4KLjztg.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@400&subset=vietnamese&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw2aXp-p7K4KLjztg.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@500&subset=cyrillic&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw9aXp-p7K4KLjztg.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@500&subset=cyrillic-ext&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw0aXp-p7K4KLjztg.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@500&subset=latin&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aXp-p7K4KLg.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@500&subset=latin-ext&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXp-p7K4KLjztg.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@500&subset=vietnamese&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw2aXp-p7K4KLjztg.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@600&subset=cyrillic&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w9aXp-p7K4KLjztg.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@600&subset=cyrillic-ext&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w0aXp-p7K4KLjztg.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@600&subset=latin&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aXp-p7K4KLg.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@600&subset=latin-ext&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXp-p7K4KLjztg.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Montserrat:wght@600&subset=vietnamese&display=swap
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\u1\google-fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w2aXp-p7K4KLjztg.woff2
+Content Type: font/woff2
+
+Uri: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw4fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=734
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1455849318743-b2233052fcff-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw4fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=223
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1455849318743-b2233052fcff-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw4fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=230
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1455849318743-b2233052fcff-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw4fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=245
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1455849318743-b2233052fcff-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw4fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=280
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1455849318743-b2233052fcff
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw4fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=446
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1455849318743-b2233052fcff-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw4fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=459
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1455849318743-b2233052fcff-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw4fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=490
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1455849318743-b2233052fcff-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw4fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=560
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1455849318743-b2233052fcff-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw4fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=603
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1455849318743-b2233052fcff-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw4fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=642
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1455849318743-b2233052fcff-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw4fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=689
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1455849318743-b2233052fcff-5
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1496754803883-1c38626e6d4d?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=1515
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1496754803883-1c38626e6d4d-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1496754803883-1c38626e6d4d?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=206&h=289
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1496754803883-1c38626e6d4d-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1496754803883-1c38626e6d4d?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=394
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1496754803883-1c38626e6d4d-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1496754803883-1c38626e6d4d?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=505
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1496754803883-1c38626e6d4d-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1496754803883-1c38626e6d4d?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=480
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1496754803883-1c38626e6d4d
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1496754803883-1c38626e6d4d?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=412&h=578
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1496754803883-1c38626e6d4d-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1496754803883-1c38626e6d4d?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=787
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1496754803883-1c38626e6d4d-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1496754803883-1c38626e6d4d?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=1010
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1496754803883-1c38626e6d4d-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1496754803883-1c38626e6d4d?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=960
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1496754803883-1c38626e6d4d-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1496754803883-1c38626e6d4d?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=1033
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1496754803883-1c38626e6d4d-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1496754803883-1c38626e6d4d?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=1326
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1496754803883-1c38626e6d4d-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1496754803883-1c38626e6d4d?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=1181
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1496754803883-1c38626e6d4d-5
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1521791136064-7986c2920216?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxN3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=1337
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1521791136064-7986c2920216-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1521791136064-7986c2920216?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxN3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=172&h=213
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1521791136064-7986c2920216-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1521791136064-7986c2920216?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxN3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=263&h=344
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1521791136064-7986c2920216
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1521791136064-7986c2920216?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxN3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=429
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1521791136064-7986c2920216-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1521791136064-7986c2920216?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxN3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=344&h=426
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1521791136064-7986c2920216-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1521791136064-7986c2920216?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxN3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=446
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1521791136064-7986c2920216-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1521791136064-7986c2920216?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxN3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=526&h=688
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1521791136064-7986c2920216-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1521791136064-7986c2920216?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxN3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=858
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1521791136064-7986c2920216-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1521791136064-7986c2920216?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxN3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=892
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1521791136064-7986c2920216-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1521791136064-7986c2920216?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxN3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=1126
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1521791136064-7986c2920216-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1521791136064-7986c2920216?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxN3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=1170
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1521791136064-7986c2920216-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1521791136064-7986c2920216?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxN3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=1287
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1521791136064-7986c2920216-5
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=1054
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1526948531399-320e7e40f0ca-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1111&h=384
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1526948531399-320e7e40f0ca
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=2222&h=768
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1526948531399-320e7e40f0ca-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=113
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1526948531399-320e7e40f0ca-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=320
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1526948531399-320e7e40f0ca-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=351
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1526948531399-320e7e40f0ca-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=227
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1526948531399-320e7e40f0ca-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=640
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1526948531399-320e7e40f0ca-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=702
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1526948531399-320e7e40f0ca-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=298
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1526948531399-320e7e40f0ca-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=922
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1526948531399-320e7e40f0ca-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=340
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1526948531399-320e7e40f0ca-5
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264280-88b68371db39?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=738
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264280-88b68371db39-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264280-88b68371db39?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1224&h=928
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264280-88b68371db39-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264280-88b68371db39?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=224
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264280-88b68371db39-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264280-88b68371db39?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=249
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264280-88b68371db39-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264280-88b68371db39?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=246
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264280-88b68371db39-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264280-88b68371db39?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=612&h=464
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264280-88b68371db39
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264280-88b68371db39?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=448
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264280-88b68371db39-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264280-88b68371db39?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=497
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264280-88b68371db39-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264280-88b68371db39?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=492
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264280-88b68371db39-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264280-88b68371db39?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=653
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264280-88b68371db39-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264280-88b68371db39?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=645
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264280-88b68371db39-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264280-88b68371db39?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=746
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264280-88b68371db39-5
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264357-8d9202250f21?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=738
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264357-8d9202250f21-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264357-8d9202250f21?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=224
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264357-8d9202250f21-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264357-8d9202250f21?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=230
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264357-8d9202250f21-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264357-8d9202250f21?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=246
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264357-8d9202250f21-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264357-8d9202250f21?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=280
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264357-8d9202250f21
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264357-8d9202250f21?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=448
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264357-8d9202250f21-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264357-8d9202250f21?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=459
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264357-8d9202250f21-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264357-8d9202250f21?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=492
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264357-8d9202250f21-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264357-8d9202250f21?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=560
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264357-8d9202250f21-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264357-8d9202250f21?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=603
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264357-8d9202250f21-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264357-8d9202250f21?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=645
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264357-8d9202250f21-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560264357-8d9202250f21?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwxMnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=689
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1560264357-8d9202250f21-5
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1615982843635-4202a013e2a8?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw5fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=738
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1615982843635-4202a013e2a8-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1615982843635-4202a013e2a8?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw5fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=224
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1615982843635-4202a013e2a8-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1615982843635-4202a013e2a8?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw5fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=230
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1615982843635-4202a013e2a8-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1615982843635-4202a013e2a8?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw5fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=246
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1615982843635-4202a013e2a8-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1615982843635-4202a013e2a8?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw5fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=280
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1615982843635-4202a013e2a8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1615982843635-4202a013e2a8?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw5fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=448
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1615982843635-4202a013e2a8-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1615982843635-4202a013e2a8?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw5fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=459
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1615982843635-4202a013e2a8-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1615982843635-4202a013e2a8?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw5fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=492
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1615982843635-4202a013e2a8-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1615982843635-4202a013e2a8?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw5fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=560
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1615982843635-4202a013e2a8-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1615982843635-4202a013e2a8?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw5fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=603
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1615982843635-4202a013e2a8-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1615982843635-4202a013e2a8?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw5fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=645
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1615982843635-4202a013e2a8-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1615982843635-4202a013e2a8?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw5fHxjb25zdWx0aW5nJTIwc2VydmljZXN8ZW58MHx8fHwxNzI4MDY3MTU4fDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=689
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1615982843635-4202a013e2a8-5
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1623932078828-c768e94bc64b?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=738
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1623932078828-c768e94bc64b-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1623932078828-c768e94bc64b?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1212&h=608
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1623932078828-c768e94bc64b-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1623932078828-c768e94bc64b?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=165
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1623932078828-c768e94bc64b-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1623932078828-c768e94bc64b?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=224
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1623932078828-c768e94bc64b-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1623932078828-c768e94bc64b?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=246
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1623932078828-c768e94bc64b-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1623932078828-c768e94bc64b?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=606&h=304
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1623932078828-c768e94bc64b
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1623932078828-c768e94bc64b?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=329
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1623932078828-c768e94bc64b-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1623932078828-c768e94bc64b?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=448
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1623932078828-c768e94bc64b-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1623932078828-c768e94bc64b?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=492
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1623932078828-c768e94bc64b-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1623932078828-c768e94bc64b?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=432
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1623932078828-c768e94bc64b-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1623932078828-c768e94bc64b?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=645
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1623932078828-c768e94bc64b-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1623932078828-c768e94bc64b?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyMXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=494
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1623932078828-c768e94bc64b-5
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841425-9d0487ea0b2a?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=1148
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841425-9d0487ea0b2a-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841425-9d0487ea0b2a?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=158&h=168
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841425-9d0487ea0b2a-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841425-9d0487ea0b2a?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=316&h=336
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841425-9d0487ea0b2a-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841425-9d0487ea0b2a?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=325
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841425-9d0487ea0b2a-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841425-9d0487ea0b2a?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=383
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841425-9d0487ea0b2a-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841425-9d0487ea0b2a?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=396
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841425-9d0487ea0b2a
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841425-9d0487ea0b2a?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=649
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841425-9d0487ea0b2a-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841425-9d0487ea0b2a?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=766
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841425-9d0487ea0b2a-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841425-9d0487ea0b2a?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=792
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841425-9d0487ea0b2a-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841425-9d0487ea0b2a?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=852
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841425-9d0487ea0b2a-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841425-9d0487ea0b2a?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=1005
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841425-9d0487ea0b2a-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841425-9d0487ea0b2a?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNnx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=974
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841425-9d0487ea0b2a-5
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841507-5bc5aba30a9c?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=738
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841507-5bc5aba30a9c-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841507-5bc5aba30a9c?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1212&h=608
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841507-5bc5aba30a9c-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841507-5bc5aba30a9c?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=165
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841507-5bc5aba30a9c-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841507-5bc5aba30a9c?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=224
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841507-5bc5aba30a9c-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841507-5bc5aba30a9c?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=246
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841507-5bc5aba30a9c-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841507-5bc5aba30a9c?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=606&h=304
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841507-5bc5aba30a9c
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841507-5bc5aba30a9c?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=329
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841507-5bc5aba30a9c-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841507-5bc5aba30a9c?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=448
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841507-5bc5aba30a9c-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841507-5bc5aba30a9c?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=492
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841507-5bc5aba30a9c-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841507-5bc5aba30a9c?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=432
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841507-5bc5aba30a9c-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841507-5bc5aba30a9c?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=645
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841507-5bc5aba30a9c-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841507-5bc5aba30a9c?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=494
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841507-5bc5aba30a9c-5
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841639-8393e9a8b06e?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=1148
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841639-8393e9a8b06e-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841639-8393e9a8b06e?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=158&h=168
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841639-8393e9a8b06e-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841639-8393e9a8b06e?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=316&h=336
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841639-8393e9a8b06e-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841639-8393e9a8b06e?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=325
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841639-8393e9a8b06e-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841639-8393e9a8b06e?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=383
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841639-8393e9a8b06e-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841639-8393e9a8b06e?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=396
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841639-8393e9a8b06e
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841639-8393e9a8b06e?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=649
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841639-8393e9a8b06e-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841639-8393e9a8b06e?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=766
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841639-8393e9a8b06e-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841639-8393e9a8b06e?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=792
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841639-8393e9a8b06e-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841639-8393e9a8b06e?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=852
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841639-8393e9a8b06e-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841639-8393e9a8b06e?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=1005
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841639-8393e9a8b06e-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841639-8393e9a8b06e?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNXx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=974
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841639-8393e9a8b06e-5
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841796-360a4cf4b3b1?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=1148
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841796-360a4cf4b3b1-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841796-360a4cf4b3b1?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=158&h=168
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841796-360a4cf4b3b1-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841796-360a4cf4b3b1?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=316&h=336
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841796-360a4cf4b3b1-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841796-360a4cf4b3b1?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=325
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841796-360a4cf4b3b1-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841796-360a4cf4b3b1?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=383
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841796-360a4cf4b3b1-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841796-360a4cf4b3b1?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=396
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841796-360a4cf4b3b1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841796-360a4cf4b3b1?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=649
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841796-360a4cf4b3b1-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841796-360a4cf4b3b1?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=766
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841796-360a4cf4b3b1-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841796-360a4cf4b3b1?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=792
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841796-360a4cf4b3b1-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841796-360a4cf4b3b1?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=852
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841796-360a4cf4b3b1-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841796-360a4cf4b3b1?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=1005
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841796-360a4cf4b3b1-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841796-360a4cf4b3b1?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyNHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=974
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841796-360a4cf4b3b1-5
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841824-6ce2d1dc2755?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwzMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=1148
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841824-6ce2d1dc2755-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841824-6ce2d1dc2755?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwzMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=158&h=168
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841824-6ce2d1dc2755-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841824-6ce2d1dc2755?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwzMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=316&h=336
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841824-6ce2d1dc2755-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841824-6ce2d1dc2755?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwzMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=325
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841824-6ce2d1dc2755-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841824-6ce2d1dc2755?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwzMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=383
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841824-6ce2d1dc2755-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841824-6ce2d1dc2755?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwzMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=396
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841824-6ce2d1dc2755
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841824-6ce2d1dc2755?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwzMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=649
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841824-6ce2d1dc2755-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841824-6ce2d1dc2755?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwzMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=766
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841824-6ce2d1dc2755-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841824-6ce2d1dc2755?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwzMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=792
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841824-6ce2d1dc2755-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841824-6ce2d1dc2755?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwzMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=852
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841824-6ce2d1dc2755-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841824-6ce2d1dc2755?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwzMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=1005
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841824-6ce2d1dc2755-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458841824-6ce2d1dc2755?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwzMHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=974
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458841824-6ce2d1dc2755-5
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842452-271155173d98?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=1148
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842452-271155173d98-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842452-271155173d98?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=158&h=168
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842452-271155173d98-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842452-271155173d98?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=316&h=336
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842452-271155173d98-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842452-271155173d98?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=325
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842452-271155173d98-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842452-271155173d98?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=383
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842452-271155173d98-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842452-271155173d98?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=396
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842452-271155173d98
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842452-271155173d98?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=649
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842452-271155173d98-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842452-271155173d98?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=766
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842452-271155173d98-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842452-271155173d98?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=792
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842452-271155173d98-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842452-271155173d98?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=852
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842452-271155173d98-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842452-271155173d98?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=1005
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842452-271155173d98-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842452-271155173d98?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyOHx8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=974
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842452-271155173d98-5
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyM3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&h=1148
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842473-c0c2ad52f2c7-10
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyM3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=158&h=168
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842473-c0c2ad52f2c7-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyM3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=316&h=336
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842473-c0c2ad52f2c7-11
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyM3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=328&h=325
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842473-c0c2ad52f2c7-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyM3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=360&h=383
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842473-c0c2ad52f2c7-7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyM3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=396
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842473-c0c2ad52f2c7
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyM3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=656&h=649
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842473-c0c2ad52f2c7-3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyM3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=720&h=766
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842473-c0c2ad52f2c7-8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyM3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=792
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842473-c0c2ad52f2c7-6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyM3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=861&h=852
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842473-c0c2ad52f2c7-4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyM3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=945&h=1005
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842473-c0c2ad52f2c7-9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwyM3x8Y29uc3VsdGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTcyODA2NzE1OHww&ixlib=rb-4.0.3&auto=format&fit=crop&w=984&h=974
+File Name: C:\Downloaded Web Sites\borgesrevestimentos.shop\photo-1680458842473-c0c2ad52f2c7-5
+Content Type: image/jpeg
+
